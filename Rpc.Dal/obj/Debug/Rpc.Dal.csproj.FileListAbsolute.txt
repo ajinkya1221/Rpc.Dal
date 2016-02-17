@@ -1,0 +1,10 @@
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\Rpc.Dal\Rpc.Dal\bin\Debug\Rpc.Dal.dll.config
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\Rpc.Dal\Rpc.Dal\bin\Debug\Rpc.Dal.dll
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\Rpc.Dal\Rpc.Dal\bin\Debug\Rpc.Dal.pdb
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\Rpc.Dal\Rpc.Dal\bin\Debug\MongoDB.Bson.dll
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\Rpc.Dal\Rpc.Dal\bin\Debug\MongoDB.Driver.dll
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\Rpc.Dal\Rpc.Dal\bin\Debug\MongoDB.Bson.xml
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\Rpc.Dal\Rpc.Dal\bin\Debug\MongoDB.Driver.xml
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\Rpc.Dal\Rpc.Dal\obj\Debug\Rpc.Dal.csprojResolveAssemblyReference.cache
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\Rpc.Dal\Rpc.Dal\obj\Debug\Rpc.Dal.dll
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\Rpc.Dal\Rpc.Dal\obj\Debug\Rpc.Dal.pdb
